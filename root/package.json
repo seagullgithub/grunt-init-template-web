@@ -1,0 +1,18 @@
+{
+  "name": "{%= name %}",
+  "version": "0.1.0",
+  "description": "{%= description %}",
+  "main": "index.html",
+  "author": "",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-compress": "^1.4.3",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "~1.0.0",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-http-server": "2.0.0",
+    "grunt-svgmin": "^6.0.0"
+  },
+  "scripts": {
+  }
+}
